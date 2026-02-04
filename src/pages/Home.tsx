@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 import { ArrowRight, Shield, Truck, Award, Users, CheckCircle } from 'lucide-react';
 import { motion } from 'framer-motion';
 
-const HERO_BG = 'https://messages-prod.27c852f3500f38c1e7786e2c9ff9e48f.r2.cloudflarestorage.com/019bb2d7-868e-7aff-bc9f-9c3a2c7a32d1/1769521216242-019bffaa-e3a2-7e45-a608-d10f6d949855.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=af634fe044bd071ab4c5d356fdace60f%2F20260128%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260128T102441Z&X-Amz-Expires=3600&X-Amz-Signature=32ababbd95842a72d82d4bfe96edf8c0fb1be1bb080a1ef8106a1757a239481a&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject';
+const HERO_BG = 'https://psv4.userapi.com/s/v1/d2/_dWOT2YLTdkcTLMjol2TOFKweHfQBekbCBSCMb4-a9vvrk7Nad-tXRsLa8HK4wA-jDctEGVOzMGsuWAxmlw6c9Z9ylH54Km2R6NIopk29otgTd-ZOiEG49JU4qJzaOXZA9qka5ayBf9v/gemini-3-pro-image-preview-2k_a_sgeneriruy_mne_karti_1.png';
 
 const advantages = [
   {
@@ -352,7 +352,7 @@ export function Home() {
                 transition={{ duration: 0.3 }}
               >
                 <motion.img 
-                  src="https://cdn.vseinstrumenti.ru/images/goods/elektrika-i-svet/aksessuary-i-komplektuyuschie-dlya-elektriki-i-elektromontazha/1518459/1200x800/71375167.jpg" 
+                  src="https://psv4.userapi.com/s/v1/d2/nGb-kNBFDN3t7zD-QYunwYvPtfz0gtg230BHycb00ifQnuQoyTTFabyL-rlsFm49IVJGF9VE3tjD0Uzm8iU0MfAC6LKNk8pNKCnufcVBThJWd7B5ITkNX-FNlNI6FDPB0NWiLeYpfgNT/gemini-3-pro-image-preview_a_sgeneriruy_mne_produ.png" 
                   alt="Продукция MAKEL" 
                   className="rounded-2xl shadow-2xl"
                   initial={{ scale: 0.9 }}
