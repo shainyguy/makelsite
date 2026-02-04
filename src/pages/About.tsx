@@ -191,7 +191,7 @@ export function About() {
                 transition={{ duration: 0.3 }}
               >
                 <img
-                  src="https://cdn.vseinstrumenti.ru/images/goods/elektrika-i-svet/aksessuary-i-komplektuyuschie-dlya-elektriki-i-elektromontazha/1518459/1200x800/71375167.jpg"
+                  src="https://psv4.userapi.com/s/v1/d2/ybKiVMhkh60qXbbVxc-ggSm1e4lDnVbd04NzzUHkC5_ogzXmYvDBdPbcGZZuv2I1zRUDmKnw4uUmXP_OXl9aTKJdqm9bYRA1SGr22dXDPkKCP1y1Ti60SbXKnqC38sU5PDJ1LhxOC-Kb/gemini-3-pro-image-preview-2k_a_sgeneriruy_mne_karti_2.png"
                   alt="Продукция MAKEL"
                   className="rounded-2xl shadow-xl"
                 />
